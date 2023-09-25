@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/world-countries-react/static/css/main.397a6b7c.css",
+    "main.js": "/world-countries-react/static/js/main.9be73f52.js",
+    "index.html": "/world-countries-react/index.html",
+    "main.397a6b7c.css.map": "/world-countries-react/static/css/main.397a6b7c.css.map",
+    "main.9be73f52.js.map": "/world-countries-react/static/js/main.9be73f52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397a6b7c.css",
+    "static/js/main.9be73f52.js"
+  ]
+}
